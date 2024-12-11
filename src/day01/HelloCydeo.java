@@ -5,7 +5,7 @@ public class HelloCydeo {
 
         System.out.println("Hello Cydeo");
         System.out.println("Hello Batch38"); 
-        system.out.println("Hello 2025" 
+        system.out.println("Hello 2025"); 
     }
     
 
